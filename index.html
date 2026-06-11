@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portfólio de Ana Luiza Câmara, estudante de Ciência da Computação com foco em desenvolvimento web, UI/UX Design e tecnologia."
+    />
+    <title>Ana Luiza Câmara | Portfólio</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
+    <link rel="icon" type="image/png" href="assets/images/AC_logo.png" />
+  </head>
+
+  <body>
+    <div class="social-sidebar">
+      <a
+        href="https://github.com/anavcamara"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="GitHub de Ana Luiza"
+      >
+        <i class="fa-brands fa-github" aria-hidden="true"></i>
+      </a>
+
+      <a
+        href="https://www.linkedin.com/in/analuiza-camara"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="LinkedIn de Ana Luiza"
+      >
+        <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>
+      </a>
+    </div>
+
+    <div class="email-sidebar">
+      <a href="mailto:anacamaradev@gmail.com"> anacamaradev@gmail.com </a>
+    </div>
+
+    <div class="mouse-glow"></div>
+
+    <header>
+      <a href="index.html" class="logo">
+        <img src="assets/images/AC_logo.png" alt="Logo de Ana Luiza Câmara" />
+      </a>
+
+      <nav>
+        <ul>
+          <li>
+            <a href="sobre.html">
+              <span>01.</span>
+              <span data-pt="Sobre" data-en="About"> Sobre </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="habilidades.html">
+              <span>02.</span>
+              <span data-pt="Habilidades" data-en="Skills">Habilidades</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="projetos.html">
+              <span>03.</span>
+              <span data-pt="Projetos" data-en="Projects">Projetos</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="contato.html">
+              <span>04.</span>
+              <span data-pt="Contato" data-en="Contact">Contato</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <button id="language-toggle" class="theme-toggle">EN</button>
+
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          aria-label="Alternar tema"
+        >
+          <i class="fa-solid fa-circle-half-stroke"></i>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <p
+          class="hero-intro"
+          data-pt="Olá, meu nome é"
+          data-en="Hi, my name is"
+        >
+          Olá, meu nome é
+        </p>
+
+        <h1>
+          <span id="typed-name"></span>
+        </h1>
+
+        <h2
+          data-pt="Estudante de Ciência da Computação e desenvolvedora em formação."
+          data-en="Computer Science student and aspiring developer."
+        >
+          Estudante de Ciência da Computação e desenvolvedora em formação.
+        </h2>
+
+        <p
+          class="hero-description"
+          data-pt="Apaixonada por desenvolvimento web, UI/UX Design e pela criação de experiências digitais simples, acessíveis e funcionais."
+          data-en="Passionate about web development, UI/UX Design, and creating simple, accessible, and functional digital experiences."
+        >
+          Apaixonada por desenvolvimento web, UI/UX Design e pela criação de
+          experiências digitais simples, acessíveis e funcionais.
+        </p>
+
+        <a
+          href="projetos.html"
+          class="cta-button"
+          data-pt="Ver meus projetos"
+          data-en="View My Projects"
+        >
+          Ver meus projetos
+        </a>
+      </section>
+    </main>
+
+    <script src="js/script.js"></script>
+    <script src="js/translations.js"></script>
+  </body>
+</html>
