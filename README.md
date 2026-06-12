@@ -31,7 +31,7 @@ A interface foi projetada com foco em uma experiência limpa, moderna e acessív
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
-## 🚀 Funcionalidades em Destaque
+## Funcionalidades em Destaque
 
 * **Dark Mode & Light Mode:** Suporte à alternância de temas visuais para maior conforto do usuário.
 * **Suporte Multi-idioma:** Interface preparada para internacionalização (Botão de alternância `EN` / `PT`).
@@ -39,7 +39,7 @@ A interface foi projetada com foco em uma experiência limpa, moderna e acessív
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
-## 📂 Organização do Site
+## Organização do Site
 
 O portfólio está estruturado em seções modulares:
 
