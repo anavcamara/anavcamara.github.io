@@ -1,4 +1,4 @@
-# 💻 Meu Portfólio Pessoal | Ana Luiza
+# Meu Portfólio Pessoal | Ana Luiza Câmara
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge&color=5a43b5" alt="Status">
@@ -8,17 +8,17 @@
   <a href="https://anavcamara.github.io/"> Acesse o meu Portfólio </a>
 </p>
 
----
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
-## 📑 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório contém o código-fonte do meu portfólio pessoal. Desenvolvido para apresentar minha trajetória como estudante de **Ciência da Computação** e **desenvolvedora em formação**, o site reúne meus principais projetos acadêmicos, habilidades técnicas e experiências em desenvolvimento web e UI/UX Design.
 
 A interface foi projetada com foco em uma experiência limpa, moderna e acessível.
 
----
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ A interface foi projetada com foco em uma experiência limpa, moderna e acessív
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-Design-%235a43b5?style=for-the-badge)
 
----
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
 ## 🚀 Funcionalidades em Destaque
 
@@ -37,7 +37,7 @@ A interface foi projetada com foco em uma experiência limpa, moderna e acessív
 * **Suporte Multi-idioma:** Interface preparada para internacionalização (Botão de alternância `EN` / `PT`).
 * **Foco em Acessibilidade Web:** Estruturação pensada para que o conteúdo seja simples e funcional para todos os públicos.
 
----
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
 
 ## 📂 Organização do Site
 
@@ -55,4 +55,4 @@ O portfólio está estruturado em seções modulares:
   
 5.  **04. Contato:** Área dedicada para conexões e propostas de oportunidades.
 
----
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=5a43b5&height=2"/> </p>
